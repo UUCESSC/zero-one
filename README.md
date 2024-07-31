@@ -24,7 +24,7 @@
 
 ## دانلود
 
-برای دانلود فایل PDF نشریه، [اینجا کلیک کنید](https://github.com/UUCESSC/zero-one/blob/main/README.md).
+برای دانلود فایل PDF نشریه، [اینجا کلیک کنید](https://github.com/UUCESSC/zero-one/blob/main/ZerOne.pdf).
 
 ---
 
